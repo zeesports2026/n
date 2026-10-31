@@ -1,0 +1,6 @@
+{
+  "name": "Zee Sports",
+  "description": "Zee Sports manufactures custom sportswear, team uniforms, football jerseys, basketball kits, cricket uniforms, tracksuits and private-label apparel in Sialkot, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
